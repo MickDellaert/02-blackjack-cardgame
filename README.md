@@ -1,6 +1,6 @@
 # 02-blackjack-cardgame
 
-![](img/blackjack-screenshot.png)
+![](img/Blackjack-screenshot.png)
 
 Howdy pardner! Care to try your luck on some Blackjack?
 * Using Javascript to create the game
