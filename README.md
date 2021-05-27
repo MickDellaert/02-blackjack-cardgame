@@ -1,5 +1,23 @@
 # 02-blackjack-cardgame
 
+![](img/blackjack-screenshot.png)
+
+Howdy pardner! Care to try your luck on some Blackjack?
+* Using Javascript to create the game
+* Usage of array and loop to create multiple card decks
+* Functions to generate random cards, draw player and cpu player cards
+* Function to compare score 
+* Show score in DOM
+* Showing results with prompts
+* A bit bare on the CSS for now: only custom fonts
+  * I managed to show the score and cards seperatly in the DOM, but ran into a problem with the cpu cards array to keep on showing new cards when drawn. Thus there is no visual representation of the cards actually showing on screen for now.
+
+
+Link to the game:
+https://mickdellaert.github.io/02-blackjack-cardgame/index
+
+---
+
 Title: 21 card game
 
     Repository: js-21-card-game
