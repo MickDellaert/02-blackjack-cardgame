@@ -28,7 +28,7 @@ function drawCard() {
 function showCards(hand, target) {
     let returnString = "";
     hand.forEach((element) => {
-        let cardText = element.suit + " " + element.value + " ";
+        let cardText = "<div class='card'>" + element.suit + " " + element.value + "</div>";
         returnString += cardText;
     });
     target.innerHTML = returnString;
